@@ -1,1 +1,3 @@
 # ML2021_homework-notes
+FoodClassification訓練過程warning較多，用colab看較方便
+AnimeFaceGeneration有mode collapse問題，後面看看能不能改進。
