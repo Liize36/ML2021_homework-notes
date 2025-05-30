@@ -1,5 +1,5 @@
 # ML2021_homework-notes
-這次的作業環境皆在google colab上實作
+這次的作業皆在google colab上實作
 
 FoodClassification訓練過程warning較多，用colab看較方便
 
